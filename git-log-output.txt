@@ -1,0 +1,31 @@
+commit 6e40118ab8c632b8bb64ecbbaf5ce88effbbcae1
+Author: Jeremy Labarre <jml95@njit.edu>
+Date:   Mon Feb 16 15:35:36 2026 -0500
+
+    Revert "Added newfile.txt"
+    
+    This reverts commit a3677485a7c9a82361691a203f09077bd80089f1.
+
+commit a3677485a7c9a82361691a203f09077bd80089f1
+Author: Jeremy Labarre <jml95@njit.edu>
+Date:   Mon Feb 16 15:34:50 2026 -0500
+
+    Added newfile.txt
+
+commit aec171de5e2f37b2ee35b5a7d72d034dc8581be3
+Author: Jeremy Labarre <jml95@njit.edu>
+Date:   Mon Feb 16 15:34:32 2026 -0500
+
+    Added a comment to hostname
+
+commit 4bae4334d3e97334980b6487bf3da208d016eb59
+Author: Jeremy Labarre <jml95@njit.edu>
+Date:   Mon Feb 16 15:23:31 2026 -0500
+
+    Added test message to os-release
+
+commit 21286c8c94beb6beb5038ea33e2f9ea749402b84
+Author: Jeremy Labarre <jml95@njit.edu>
+Date:   Mon Feb 16 15:21:43 2026 -0500
+
+    Initial Starting Point of the repo
